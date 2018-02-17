@@ -1,9 +1,9 @@
-java.lang.AssertionError: expected:<12> but was:<435>
+java.lang.AssertionError: expected:<7> but was:<10>
 	at org.junit.Assert.fail(Assert.java:88)
 	at org.junit.Assert.failNotEquals(Assert.java:834)
 	at org.junit.Assert.assertEquals(Assert.java:645)
 	at org.junit.Assert.assertEquals(Assert.java:631)
-	at RecursieTest.testOef2_Som_vanCijfers_getal_bestaand_uit_meer_cijfers_geeft_de_absolute_waarde_van_de_som_van_zijn_cijfers(RecursieTest.java:70)
+	at RecursieTest.testOef10_FindSubstrings_String_Met_Lengte_Meer_Dan_1_geeft_arraylist_Met_Strings(RecursieTest.java:210)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
