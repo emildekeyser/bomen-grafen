@@ -1,0 +1,85 @@
+!SESSION 2018-02-14 11:18:34.611 -----------------------------------------------
+eclipse.buildId=4.7.2.M20171130-0510
+java.version=1.8.0_151
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -data /home/user1/eclipse-ucll-workspace -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.eclemma.ui 4 4 2018-02-14 11:24:26.719
+!MESSAGE ILaunchShortcut declaration not found: org.eclipse.pde.ui.junitWorkbenchShortcut
+
+!ENTRY org.eclipse.eclemma.ui 4 4 2018-02-14 11:25:00.584
+!MESSAGE ILaunchShortcut declaration not found: org.eclipse.pde.ui.junitWorkbenchShortcut
+!SESSION 2018-02-14 11:25:36.615 -----------------------------------------------
+eclipse.buildId=4.7.2.M20171130-0510
+java.version=1.8.0_151
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.eclemma.ui 4 4 2018-02-14 11:25:49.247
+!MESSAGE ILaunchShortcut declaration not found: org.eclipse.pde.ui.junitWorkbenchShortcut
+
+!ENTRY org.eclipse.eclemma.ui 4 4 2018-02-14 11:28:01.401
+!MESSAGE ILaunchShortcut declaration not found: org.eclipse.pde.ui.junitWorkbenchShortcut
+
+!ENTRY org.eclipse.eclemma.ui 4 4 2018-02-14 11:28:03.794
+!MESSAGE ILaunchShortcut declaration not found: org.eclipse.pde.ui.junitWorkbenchShortcut
+
+!ENTRY org.eclipse.eclemma.ui 4 4 2018-02-14 11:28:04.087
+!MESSAGE ILaunchShortcut declaration not found: org.eclipse.pde.ui.junitWorkbenchShortcut
+
+!ENTRY org.eclipse.eclemma.ui 4 4 2018-02-14 11:28:15.148
+!MESSAGE ILaunchShortcut declaration not found: org.eclipse.pde.ui.junitWorkbenchShortcut
+
+!ENTRY org.eclipse.eclemma.ui 4 4 2018-02-14 11:28:15.841
+!MESSAGE ILaunchShortcut declaration not found: org.eclipse.pde.ui.junitWorkbenchShortcut
+
+!ENTRY org.eclipse.eclemma.ui 4 4 2018-02-14 11:28:16.040
+!MESSAGE ILaunchShortcut declaration not found: org.eclipse.pde.ui.junitWorkbenchShortcut
+
+!ENTRY org.eclipse.eclemma.ui 4 4 2018-02-14 11:28:16.219
+!MESSAGE ILaunchShortcut declaration not found: org.eclipse.pde.ui.junitWorkbenchShortcut
+
+!ENTRY org.eclipse.eclemma.ui 4 4 2018-02-14 11:28:56.599
+!MESSAGE ILaunchShortcut declaration not found: org.eclipse.pde.ui.junitWorkbenchShortcut
+
+!ENTRY org.eclipse.eclemma.ui 4 4 2018-02-14 11:28:58.196
+!MESSAGE ILaunchShortcut declaration not found: org.eclipse.pde.ui.junitWorkbenchShortcut
+
+!ENTRY org.eclipse.eclemma.ui 4 4 2018-02-14 11:28:59.096
+!MESSAGE ILaunchShortcut declaration not found: org.eclipse.pde.ui.junitWorkbenchShortcut
+!SESSION 2018-02-14 11:29:06.207 -----------------------------------------------
+eclipse.buildId=4.7.2.M20171130-0510
+java.version=1.8.0_151
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.eclemma.ui 4 4 2018-02-14 11:29:28.855
+!MESSAGE ILaunchShortcut declaration not found: org.eclipse.pde.ui.junitWorkbenchShortcut
+!SESSION 2018-02-14 11:54:12.112 -----------------------------------------------
+eclipse.buildId=4.7.2.M20171130-0510
+java.version=1.8.0_151
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.ui 4 4 2018-02-14 12:21:59.096
+!MESSAGE Conflicting handlers for org.eclipse.jdt.ui.edit.text.java.format: {org.eclipse.jdt.internal.debug.ui.console.JavaStackTracePageParticipant$1@158330c1} vs {org.eclipse.jdt.internal.debug.ui.console.JavaStackTracePageParticipant$1@2b49a11d}
+
+!ENTRY org.eclipse.ui 4 4 2018-02-14 12:22:04.546
+!MESSAGE Conflicting handlers for org.eclipse.jdt.ui.edit.text.java.format: {org.eclipse.jdt.internal.debug.ui.console.JavaStackTracePageParticipant$1@158330c1} vs {org.eclipse.jdt.internal.debug.ui.console.JavaStackTracePageParticipant$1@260413c2}
+
+!ENTRY org.eclipse.ui 4 4 2018-02-14 12:22:05.599
+!MESSAGE Conflicting handlers for org.eclipse.jdt.ui.edit.text.java.format: {org.eclipse.jdt.internal.debug.ui.console.JavaStackTracePageParticipant$1@22fea72} vs {org.eclipse.jdt.internal.debug.ui.console.JavaStackTracePageParticipant$1@158330c1}
+
+!ENTRY org.eclipse.ui 4 4 2018-02-14 12:22:07.215
+!MESSAGE Conflicting handlers for org.eclipse.jdt.ui.edit.text.java.format: {org.eclipse.jdt.internal.debug.ui.console.JavaStackTracePageParticipant$1@158330c1} vs {org.eclipse.jdt.internal.debug.ui.console.JavaStackTracePageParticipant$1@6332d165}
+
+!ENTRY org.eclipse.ui 4 4 2018-02-14 12:22:10.423
+!MESSAGE Conflicting handlers for org.eclipse.jdt.ui.edit.text.java.format: {org.eclipse.jdt.internal.debug.ui.console.JavaStackTracePageParticipant$1@7d8e4c43} vs {org.eclipse.jdt.internal.debug.ui.console.JavaStackTracePageParticipant$1@158330c1}
