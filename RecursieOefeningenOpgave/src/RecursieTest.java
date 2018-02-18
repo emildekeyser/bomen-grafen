@@ -107,7 +107,7 @@ public class RecursieTest {
 	}
 	
 	@Test
-	public void testOef5_CountHi_String_Zonder_Hi_en_Geeft_nul() { //ihabcxihhjkx
+	public void testOef5_CountHi_String_Zonder_Hi_en_Geeft_nul() {
 		assertEquals(0,Recursie.countHi("ihabcxihhjkx"));
 	}
 	

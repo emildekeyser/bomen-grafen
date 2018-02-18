@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.HashSet;
 import java.util.List;
 
 public class Recursie
@@ -216,6 +217,10 @@ public class Recursie
 			{
 				String s = string.substring(0, i) + string.substring(i+1);
 				a.addAll(findSubstrings(s));
+				HashSet<String> hs = new HashSet<>();
+				hs.addAll(a);
+				a.clear();
+				a.addAll(hs);
 			}
 			return a;
 		}
