@@ -47,9 +47,46 @@ public class BinaryTree<E>
 	
 	public int depth()
 	{
-		int rightDepth = this.leftTree != null ? this.leftTree.countNodes() : 0;
-		int leftDepth = this.rightTree != null ? this.rightTree.countNodes() : 0;
-		return 1 + nodesLinks + nodesRechts;
+		int leftDepth = this.leftTree == null ? 0 : this.leftTree.depth();
+		int rightDepth = this.rightTree == null ? 0 : this.rightTree.depth();
+		return 1 + Math.max(leftDepth, rightDepth);
+	}
+	
+	public boolean isLeaf()
+	{
+		return this.rightTree == null && this.leftTree == null;
+	}
+	
+	public int countLeafs()
+	{
+		if (this.isLeaf()) return 1;
+		else
+		{
+			int leftLeafs = this.leftTree == null ? 0 : this.leftTree.countLeafs();
+			int rightLeafs = this.rightTree == null ? 0 : this.rightTree.countLeafs();
+			return leftLeafs + rightLeafs;
+		}
+	}
+	
+	public void printDataLeafs()
+	{
+		if (this.isLeaf()) System.out.println(this.data);
+		else
+		{
+			if (this.leftTree != null) this.leftTree.printDataLeafs();
+			if (this.rightTree != null) this.rightTree.printDataLeafs();
+		}
+	}
+	
+	public boolean contains(E search)
+	{
+		if (this.data == search) return true;
+		else
+		{
+			boolean leftContains = this.leftTree == null ? false : this.leftTree.contains(search);
+			boolean rightContains = this.rightTree == null ? false : this.rightTree.contains(search);
+			return leftContains || rightContains;
+		}
 	}
 }
 

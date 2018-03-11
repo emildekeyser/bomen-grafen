@@ -20,7 +20,10 @@ public class BinaryTreeDriver
 		
 		BinaryTree<String> boom = new BinaryTree<String>("F", nodeB, nodeG);
 		
-		System.out.println(boom.countNodes());
+		System.out.println(boom.contains("D"));
+		System.out.println(boom.contains("H"));
+		System.out.println(boom.contains("F"));
+		System.out.println(boom.contains("Q"));
 	}
 
 }
