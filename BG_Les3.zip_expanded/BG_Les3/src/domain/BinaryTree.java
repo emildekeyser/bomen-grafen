@@ -1,5 +1,7 @@
 package domain;
 
+import java.util.List;
+
 public class BinaryTree<E>
 {
 	private E data;
@@ -87,6 +89,20 @@ public class BinaryTree<E>
 			boolean rightContains = this.rightTree == null ? false : this.rightTree.contains(search);
 			return leftContains || rightContains;
 		}
+	}
+	
+	public int count(E search)
+	{
+		int ret = this.data == search ? 1 : 0;
+		ret += this.leftTree == null ? 0 : this.leftTree.count(search);
+		ret += this.rightTree == null ? 0 : this.rightTree.count(search);
+		return ret;
+	}
+	
+	public List<E> getNodesAtDistance(int k)
+	{
+		
+		return null;
 	}
 }
 

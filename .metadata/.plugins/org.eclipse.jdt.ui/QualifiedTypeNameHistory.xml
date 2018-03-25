@@ -4,7 +4,8 @@
 <fullyQualifiedTypeName name="javax.swing.DebugGraphics"/>
 <fullyQualifiedTypeName name="java.util.HashSet"/>
 <fullyQualifiedTypeName name="java.lang.String"/>
-<fullyQualifiedTypeName name="domain.BinaryTree"/>
 <fullyQualifiedTypeName name="java.lang.Math"/>
 <fullyQualifiedTypeName name="domain.BinarySearchTree"/>
+<fullyQualifiedTypeName name="domain.BinaryTree"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
 </qualifiedTypeNameHistroy>

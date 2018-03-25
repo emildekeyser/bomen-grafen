@@ -37,6 +37,7 @@ public class BinarySearchTreeDriver {
 		System.out.println(boom.getPath(7));
 		System.out.println(boom.getPath(4));
 		System.out.println(boom.getPath(8));
+		boom.printInOrder();
 	}
 
 }
