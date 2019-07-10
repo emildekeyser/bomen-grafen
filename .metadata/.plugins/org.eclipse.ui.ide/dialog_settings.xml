@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="/home/user1/Desktop/bijkomendeOefeningBomenOpgave.zip"/>
 		<item value="/home/user1/Desktop/BG_Les3.zip"/>
 	</list>
 	<section name="ExternalProjectImportWizard">
@@ -12,6 +13,13 @@
 			<item value="/home/user1/Desktop/RecursieOefeningenOpgave"/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value="/home/user1/Desktop/B&amp;F_les8_opgave.zip"/>
+			<item value="/home/user1/Desktop/BG_Les9_oplossing.zip"/>
+			<item value="/home/user1/Desktop/B&amp;F_les9_opgave.zip"/>
+			<item value="/home/user1/Desktop/MogelijkeOplossingVakkenLijsten.zip"/>
+			<item value="/home/user1/Desktop/B&amp;F_les10_opgave.zip"/>
+			<item value="/home/user1/Desktop/B&amp;GLes6a.zip"/>
+			<item value="/home/user1/Desktop/BG_Les6.zip"/>
 			<item value="/home/user1/Desktop/BG_Les4(2).zip"/>
 			<item value=""/>
 		</list>

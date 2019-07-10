@@ -4,8 +4,17 @@
 <fullyQualifiedTypeName name="javax.swing.DebugGraphics"/>
 <fullyQualifiedTypeName name="java.util.HashSet"/>
 <fullyQualifiedTypeName name="java.lang.String"/>
-<fullyQualifiedTypeName name="java.lang.Math"/>
-<fullyQualifiedTypeName name="domain.BinarySearchTree"/>
-<fullyQualifiedTypeName name="domain.BinaryTree"/>
+<fullyQualifiedTypeName name="java.lang.IllegalStateException"/>
+<fullyQualifiedTypeName name="java.util.Queue"/>
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="domain.BinaryTree"/>
+<fullyQualifiedTypeName name="domain.BinaryMinHeap"/>
+<fullyQualifiedTypeName name="domain.model.Vak"/>
+<fullyQualifiedTypeName name="domain.BinarySearchTree"/>
+<fullyQualifiedTypeName name="java.util.LinkedList"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="domain.BinaryMaxHeap"/>
+<fullyQualifiedTypeName name="java.lang.Math"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
 </qualifiedTypeNameHistroy>

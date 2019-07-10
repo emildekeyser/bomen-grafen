@@ -14,14 +14,19 @@ public class BinarySearchTree<E extends Comparable<E>>
 		this.data = data;
 	}
 
-	public void printInOrder()
+	public void printInOrder(String prefix, String suffix)
 	{
 		if (this.data != null)
 		{
-			if (leftTree != null) leftTree.printInOrder();
-			System.out.print(this.data + " ");
-			if (rightTree != null) rightTree.printInOrder();
+			if (leftTree != null) leftTree.printInOrder(prefix, suffix);
+			System.out.print(prefix + this.data + suffix);
+			if (rightTree != null) rightTree.printInOrder(prefix, suffix);
 		}
+	}
+	
+	public void printInOrder()
+	{
+		this.printInOrder("", " ");
 	}
 
 	public boolean lookup(E data)
